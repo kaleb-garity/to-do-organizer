@@ -18,3 +18,4 @@ with open("to-do-list.txt", "a+") as file:
 with open('to-do-list.txt', 'r+') as file:
     print(file.read())
 
+do "blah blah blah"
